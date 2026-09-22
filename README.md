@@ -1,3 +1,6 @@
+This is slowly getting faced out by other methods. Check out my fork of [Stiimsu](https://github.com/bluefinhomeserver/Stiimsu-rewrites)
+
+
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/iisu-network/iiSU/a5012c3066d6db158909bdec78b7c655da0d789a/.github/assets/iiSU_Logo.svg"
